@@ -15,3 +15,5 @@ Organizations I contribute to include:
 My goal is to keep contributing to Open Source and help others do the same. With your help I'll be able to continue promoting Open Source and make the world a better place, one commit at a time.
 
 [https://patreon.com/aalmiray](https://patreon.com/aalmiray)
+
+<a rel="me" href="https://mastodon.social/@aalmiray">Follow me on Mastodon</a>
