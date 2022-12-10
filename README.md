@@ -10,10 +10,8 @@ Organizations I contribute to include:
 * [github.com/asciidoctor](https://github.com/asciidoctor)
 * [github.com/hackergarten](https://github.com/hackergarten)
 * [github.com/moditect](https://github.com/moditect)
-* [github.com/sshoogr](https://github.com/sshoogr)
 
-My goal is to keep contributing to Open Source and help others do the same. With your help I'll be able to continue promoting Open Source and make the world a better place, one commit at a time.
+My goal is to keep contributing to Open Source and help others do the same. With your help I'll be able to continue promoting Open Source and make the world a better place, one commit at a time. Contact me on [Twitter](https://twitter.com/aalmiray/),
+<a rel="me" href="https://mastodon.social/@aalmiray">Mastodon</a> 
 
 [https://patreon.com/aalmiray](https://patreon.com/aalmiray)
-
-<a rel="me" href="https://mastodon.social/@aalmiray">Follow me on Mastodon</a>
